@@ -1,0 +1,36 @@
+{
+   "Routes":"Mumbai to Pune Jn",
+   "popular_trains(4 trains per route)":[
+      [
+         "DECCAN QUEEN",
+         "ADI PUNE SF",
+         "JP PUNE EXP",
+         "INDB DAUND EXP"
+      ]
+   ],
+   "Duration of said popular trains (in order of popular_trains) (hours)":[
+      [
+         "03:15",
+         "02:45",
+         "02:50",
+         "02:50"
+      ]
+   ],
+   "total_trains_per_week":73,
+   "distance_between_cities(km)":135,
+   "fastest_train":"19667 MYS HUMSAFAR EXP",
+   "time_taken_fastest_train(hours)":"02:30 Hrs",
+   "cheapest_train":145,
+   "earliest_train_per_day":"INDB PUNE SPL",
+   "earliest_train_departure_time":"00:20",
+   "last_train_per_day":"DR SNSI EXP",
+   "last_train_departure_time":"23:55",
+   "superfast_trains(3 per route)":[
+      "09324 INDB PUNE SPL",
+      "22149 ERS PUNE SF EXP"
+   ],
+   "express_trains(3 per route)":[
+      "09324 INDB PUNE SPL",
+      "11087 VERAVAL PUNE EX"
+   ]
+}
