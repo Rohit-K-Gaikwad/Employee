@@ -1,0 +1,129 @@
+"fare": {
+    "CC": {
+        "GN": 385,
+        "TQ": 515,
+        "breakup": {
+            "GN": [
+                {
+                    "text": "Base Charges",
+                    "key": "base_fare",
+                    "value": 281
+                },
+                {
+                    "text": "Reservation Charges",
+                    "key": "reservation_charges",
+                    "value": 40
+                },
+                {
+                    "text": "Superfast Charges",
+                    "key": "superfast_charges",
+                    "value": 45
+                },
+                {
+                    "text": "GST",
+                    "key": "service_tax",
+                    "value": 19
+                },
+                {
+                    "text": "Total Amount",
+                    "key": "total",
+                    "value": 385
+                }
+            ],
+            "TQ": [
+                {
+                    "text": "Base Charges",
+                    "key": "base_fare",
+                    "value": 280
+                },
+                {
+                    "text": "Reservation Charges",
+                    "key": "reservation_charges",
+                    "value": 40
+                },
+                {
+                    "text": "Superfast Charges",
+                    "key": "superfast_charges",
+                    "value": 45
+                },
+                {
+                    "text": "GST",
+                    "key": "service_tax",
+                    "value": 25
+                },
+                {
+                    "text": "Tatkal Charges",
+                    "key": "tatkal_charges",
+                    "value": 125
+                },
+                {
+                    "text": "Total Amount",
+                    "key": "total",
+                    "value": 515
+                }
+            ]
+        }
+    },
+    "EV": {
+        "GN": "",
+        "TQ": "",
+        "breakup": {
+
+        }
+    },
+    "2S": {
+        "GN": 105,
+        "TQ": 115,
+        "breakup": {
+            "GN": [
+                {
+                    "text": "Base Charges",
+                    "key": "base_fare",
+                    "value": 75
+                },
+                {
+                    "text": "Reservation Charges",
+                    "key": "reservation_charges",
+                    "value": 15
+                },
+                {
+                    "text": "Superfast Charges",
+                    "key": "superfast_charges",
+                    "value": 15
+                },
+                {
+                    "text": "Total Amount",
+                    "key": "total",
+                    "value": 105
+                }
+            ],
+            "TQ": [
+                {
+                    "text": "Base Charges",
+                    "key": "base_fare",
+                    "value": 75
+                },
+                {
+                    "text": "Reservation Charges",
+                    "key": "reservation_charges",
+                    "value": 15
+                },
+                {
+                    "text": "Superfast Charges",
+                    "key": "superfast_charges",
+                    "value": 15
+                },
+                {
+                    "text": "Tatkal Charges",
+                    "key": "tatkal_charges",
+                    "value": 10
+                },
+                {
+                    "text": "Total Amount",
+                    "key": "total",
+                    "value": 115
+                }
+            ]
+        }
+    }
+},
